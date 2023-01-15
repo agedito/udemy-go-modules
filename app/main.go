@@ -1,8 +1,8 @@
 package main
 
 import (
-	"agedito/udemy/modules/toolkit"
 	"fmt"
+	"github.com/agedito/udemy-go-modules"
 )
 
 func main() {
